@@ -1,0 +1,14 @@
+C:\Users\brandon\EmailAddressMethod\bin\Debug\net7.0\EmailAddressMethod.exe
+C:\Users\brandon\EmailAddressMethod\bin\Debug\net7.0\EmailAddressMethod.deps.json
+C:\Users\brandon\EmailAddressMethod\bin\Debug\net7.0\EmailAddressMethod.runtimeconfig.json
+C:\Users\brandon\EmailAddressMethod\bin\Debug\net7.0\EmailAddressMethod.dll
+C:\Users\brandon\EmailAddressMethod\bin\Debug\net7.0\EmailAddressMethod.pdb
+C:\Users\brandon\EmailAddressMethod\obj\Debug\net7.0\EmailAddressMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon\EmailAddressMethod\obj\Debug\net7.0\EmailAddressMethod.AssemblyInfoInputs.cache
+C:\Users\brandon\EmailAddressMethod\obj\Debug\net7.0\EmailAddressMethod.AssemblyInfo.cs
+C:\Users\brandon\EmailAddressMethod\obj\Debug\net7.0\EmailAddressMethod.csproj.CoreCompileInputs.cache
+C:\Users\brandon\EmailAddressMethod\obj\Debug\net7.0\EmailAddressMethod.dll
+C:\Users\brandon\EmailAddressMethod\obj\Debug\net7.0\refint\EmailAddressMethod.dll
+C:\Users\brandon\EmailAddressMethod\obj\Debug\net7.0\EmailAddressMethod.pdb
+C:\Users\brandon\EmailAddressMethod\obj\Debug\net7.0\EmailAddressMethod.genruntimeconfig.cache
+C:\Users\brandon\EmailAddressMethod\obj\Debug\net7.0\ref\EmailAddressMethod.dll
